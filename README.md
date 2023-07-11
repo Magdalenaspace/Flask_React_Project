@@ -1,1 +1,1 @@
-# Python/Flask_JS/React_Project
+# Python/Flask-backend_JS/React-frontend
