@@ -1,1 +1,1 @@
-# Python/Flask-backend_JS/React-frontend
+# Python with Flask for backend, JavaScript with React for frontend
